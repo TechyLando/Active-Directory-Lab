@@ -1,7 +1,7 @@
 <h1>Active Directory Lab 1</h1>
 
 <h2>Description</h2>
-Project consists of creating a resource group and deploying a Windows Server vitual machine through Azure, connecting to the Windows Server virtual machine thorough Bastion, hopping into the virtual machine and adding needed roles and features.
+Project consists of creating a resource group and deploying a Windows Server vitual machine through Azure, connecting to the Windows Server virtual machine through Bastion, hopping into the virtual machine and adding needed roles and features.
 <br />
 
 
