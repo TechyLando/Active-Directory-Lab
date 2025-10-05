@@ -70,17 +70,6 @@ Roles and features installing: <br/>
 <br />
 Finished: <br/>
 <img src="https://i.imgur.com/wb5mmCr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
-
-
-
-
-
-
-
-
-
-  
 </p>
 
 <!--
