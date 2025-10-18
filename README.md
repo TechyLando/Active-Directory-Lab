@@ -8,7 +8,7 @@ Project consists of creating a resource group and deploying a Windows Server vit
 <h2>Languages and Utilities Used</h2>
 
 - <b>Windows Azure Bastion</b> 
-- <b>Windows Server Manager </b>
+- <b>Windows Server Manager 2022 </b>
 
 <h2>Environments Used </h2>
 
